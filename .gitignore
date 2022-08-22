@@ -5,3 +5,5 @@ build
 sesame.egg-info
 dist
 *.cfg
+examples/*.gzip
+
