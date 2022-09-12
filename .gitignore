@@ -5,5 +5,8 @@ build
 sesame.egg-info
 dist
 *.cfg
-examples/*.gzip
-
+playground/
+*.gzip
+# VS Code stuff
+.DS_store
+sesame_venv
